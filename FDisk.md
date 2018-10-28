@@ -3,7 +3,7 @@
 
   - Fdisk es el encargado de gestionar nuestra tabla de particiones. Tambien con una serie de comandos nos permite hacer cambios en las particiones
 
-## Comandos utiles? 
+## Comandos utiles 
 
 *fdisk -p* -> Nos permite ver la tabla de particiones del sistema.
 
