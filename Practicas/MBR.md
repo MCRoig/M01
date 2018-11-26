@@ -6,7 +6,9 @@ El sitema de particiones MBR contiene:
 
   **-Gestor de arranque:** Sirve para:
 
-    -busca la particion activa -busca el sector de arranque de la particion activa  
+    -busca la particion activa 
+    
+    -busca el sector de arranque de la particion activa  
 
     -encontrar el gestor de arranque en la particion  
 
